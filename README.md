@@ -1,3 +1,5 @@
+<p align="center">✨Dvurechensky✨</p>
+
 <p align="center">
     <p align="center">
         <img src="Git/gitPreview.png" width="100%" alt="Banner">
@@ -20,3 +22,5 @@
 - 🚩 Арифметические операции, ввод данных
 
 Данная информация по C# проработанна мной с плейлиста грамотного канала 👊 [#SimpleCode](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r) 👊
+
+<p align="center">✨Dvurechensky✨</p>
