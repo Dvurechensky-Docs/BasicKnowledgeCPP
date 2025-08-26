@@ -20,13 +20,13 @@ published: true
 
 # Разбор языка программирования C++ 🚏
 
-- 🚩 [Первая программа](Lessons/1_Lesson_Первая_программа)
-- 🚩 [Escape последовательности](Lessons/2_Lesson_Escape_последовательности)
-- 🚩 [Типы данных](Lessons/3_Lesson_Типы_данных)
-- 🚩 [Переменные](Lessons/4_Переменные)
-- 🚩 [Константы (`const`)](<Lessons/5_Константы(const)>)
-- 🚩 [Ввод данных](Lessons/6_Ввод_данных)
-- 🚩 [Арифметические операции](Lessons/7_Арифметические_операции)
+- 🚩 [Первая программа](https://github.com/Dvurechensky-Docs/BasicKnowledgeCPP/tree/main/Lessons/1_Lesson_Первая_программа)
+- 🚩 [Escape последовательности](https://github.com/Dvurechensky-Docs/BasicKnowledgeCPP/tree/main/Lessons/2_Lesson_Escape_последовательности)
+- 🚩 [Типы данных](https://github.com/Dvurechensky-Docs/BasicKnowledgeCPP/tree/main/Lessons/3_Lesson_Типы_данных)
+- 🚩 [Переменные](https://github.com/Dvurechensky-Docs/BasicKnowledgeCPP/tree/main/Lessons/4_Переменные)
+- 🚩 [Константы (`const`)](<https://github.com/Dvurechensky-Docs/BasicKnowledgeCPP/tree/main/Lessons/5_Константы(const)>)
+- 🚩 [Ввод данных](https://github.com/Dvurechensky-Docs/BasicKnowledgeCPP/tree/main/Lessons/6_Ввод_данных)
+- 🚩 [Арифметические операции](https://github.com/Dvurechensky-Docs/BasicKnowledgeCPP/tree/main/Lessons/7_Арифметические_операции)
 
 > P.s Ещё в разработке!
 
