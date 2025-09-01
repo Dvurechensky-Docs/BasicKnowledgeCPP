@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 31 августа 2025 07:39:20
- * Version: 1.0.10
+ * Last Updated: 01 сентября 2025 11:05:58
+ * Version: 1.0.11
  */
 
 // 7_Арифметические_операции.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
