@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 12 ноября 2025 06:51:27
- * Version: 1.0.84
+ * Last Updated: 13 ноября 2025 06:51:28
+ * Version: 1.0.85
  */
 
 // 3_Lesson_Типы_данных.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
