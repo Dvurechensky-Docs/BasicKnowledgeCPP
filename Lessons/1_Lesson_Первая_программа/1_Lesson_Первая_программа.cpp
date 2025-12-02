@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 01 декабря 2025 12:48:43
- * Version: 1.0.103
+ * Last Updated: 02 декабря 2025 13:35:53
+ * Version: 1.0.104
  */
 
 // 1_Lesson_Первая_программа.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
