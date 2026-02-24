@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 23 февраля 2026 14:22:15
- * Version: 1.0.187
+ * Last Updated: 24 февраля 2026 13:21:59
+ * Version: 1.0.188
  */
 
 // 4_Переменные.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
