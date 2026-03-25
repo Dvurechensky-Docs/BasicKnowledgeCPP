@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 24 марта 2026 08:53:36
- * Version: 1.0.216
+ * Last Updated: 25 марта 2026 10:13:56
+ * Version: 1.0.217
  */
 
 // 2_Lesson_Escape_последовательности.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
