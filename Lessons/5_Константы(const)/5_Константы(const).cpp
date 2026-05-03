@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 02 мая 2026 19:15:36
- * Version: 1.0.257
+ * Last Updated: 03 мая 2026 06:51:13
+ * Version: 1.0.258
  */
 
 // 5_Константы(const).cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
