@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 30 октября 2026 10:21:47
- * Version: 1.0.438
+ * Last Updated: 31 октября 2026 10:53:37
+ * Version: 1.0.439
  */
 
 // 6_Ввод_данных.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
